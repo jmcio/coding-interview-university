@@ -761,7 +761,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - basic tree construction
     - traversal
     - manipulation algorithms
-    - [ ] [BFS(breadth-first search) and DFS(depth-first search) (video)](https://www.youtube.com/watch?v=uWL6FJhq5fM)
+    - [x] [BFS(breadth-first search) and DFS(depth-first search) (video)](https://www.youtube.com/watch?v=uWL6FJhq5fM)
         - BFS notes:
            - level order (BFS, using queue)
            - time complexity: O(n)
@@ -776,7 +776,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
             - preorder (DFS: self, left, right)
 
 - ### Binary search trees: BSTs
-    - [ ] [Binary Search Tree Review (video)](https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)    
+    - [x] [Binary Search Tree Review (video)](https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)    
     - [ ] [Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction)
     - [ ] [MIT (video)](https://www.youtube.com/watch?v=76dhtgZt38A&ab_channel=MITOpenCourseWare)
     - C/C++:
